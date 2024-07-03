@@ -5,4 +5,4 @@ console.log(divide(2000, 100));
 
 square = x => x * x;
 
-add = (x, y) => x + y;
+const add = (x, y) => x + y;
